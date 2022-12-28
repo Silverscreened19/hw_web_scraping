@@ -1,112 +1,230 @@
 [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+        "link": "https://spb.hh.ru/vacancy/73581287?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ООО Юнит",
+        "salary": "130 000 – 200 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73247485?from=vacancy_search_list&query=python",
+        "city": "Санкт-Петербург",
+        "company_name": "Stik",
+        "salary": "30 000 – 50 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73193605?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "Own Script",
+        "salary": "от 100 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/74037156?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "FoxCom SIA",
+        "salary": "1 800 – 2 000 EUR"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73444442?from=vacancy_search_list&query=python",
+        "city": "Санкт-Петербург",
+        "company_name": "ООО ЛИГРЕС",
+        "salary": "от 100 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/74348727?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "МД Информационные Системы",
+        "salary": "от 300 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/74036705?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "FoxCom SIA",
+        "salary": "1 800 – 2 000 EUR"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73720299?from=vacancy_search_list&query=python",
+        "city": "Санкт-Петербург",
+        "company_name": "ООО Скиллтеллект",
+        "salary": "40 000 – 50 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/70790936?from=vacancy_search_list&query=python",
+        "city": "Санкт-Петербург",
+        "company_name": "Деловые люди",
+        "salary": "80 000 – 130 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73058470?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "МД Информационные Системы",
+        "salary": "от 200 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72741604?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "Rubbles",
+        "salary": "до 275 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73870713?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "OWNEX (ООО Консул Групп-Ит)",
+        "salary": "200 000 – 220 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73825338?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "AlfaBit.Group",
+        "salary": "150 000 – 200 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73735303?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ООО САТ",
+        "salary": "от 300 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73820915?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "АО ФинТех",
+        "salary": "от 150 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73628215?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ООО Авигаль",
+        "salary": "150 000 – 250 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73173071?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ООО Контент лайн",
+        "salary": "150 000 – 170 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73149444?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "53x Apps",
+        "salary": "130 000 – 200 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/71428568?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ФГБУ ЦСП ФМБА России",
+        "salary": "250 000 – 300 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73250741?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "CoinsGuru",
+        "salary": "1 500 – 2 500 USD"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73380901?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ОпенСервис",
+        "salary": "120 000 – 150 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73393627?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ООО Крокодил",
+        "salary": "140 000 – 180 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73195194?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "4CV Recruitment Services",
+        "salary": "6 000 – 9 000 USD"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73471941?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "MultiTech",
+        "salary": "от 100 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/67746996?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ЗАО МНИТИ",
+        "salary": "до 300 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72796611?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "BestDoctor",
+        "salary": "от 230 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72312345?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "Rubbles",
+        "salary": "от 200 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73883823?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ООО МАЙ НЬЮ ДЖОБ ДЕВЕЛОПМЕНТ КОМПАНИ",
+        "salary": "200 000 – 350 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73883824?from=vacancy_search_list&query=python",
+        "city": "Санкт-Петербург",
+        "company_name": "ООО МАЙ НЬЮ ДЖОБ ДЕВЕЛОПМЕНТ КОМПАНИ",
+        "salary": "200 000 – 350 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72458360?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ЧУ ДО Московская школа программистов",
+        "salary": "до 120 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/72211947?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "idaproject",
+        "salary": "от 90 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/74225880?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "Поляк Борис Александрович",
+        "salary": "30 000 – 60 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/74225881?from=vacancy_search_list&query=python",
+        "city": "Санкт-Петербург",
+        "company_name": "Поляк Борис Александрович",
+        "salary": "30 000 – 60 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73782431?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "IT-FLOT",
+        "salary": "100 000 – 200 000 руб."
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/74081087?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "JetLend",
+        "salary": "до 250 000 руб."
+    },
     {
         "link": "https://spb.hh.ru/vacancy/73769829?from=vacancy_search_list&query=python",
         "city": "Москва",
         "company_name": "ООО Фрукторум",
         "salary": "70 000 – 120 000 руб."
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "link": "https://spb.hh.ru/vacancy/73015029?from=vacancy_search_list&query=python",
-        "city": "Москва",
-        "company_name": "Hi, Rockits!",
-        "salary": "до 5 000 EUR"
+        "link": "https://spb.hh.ru/vacancy/73475843?from=vacancy_search_list&query=python",
+        "city": "Санкт-Петербург",
+        "company_name": "ЗАО АКУТА",
+        "salary": "от 100 000 руб."
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+        "link": "https://spb.hh.ru/vacancy/73330839?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "ООО Легалтэк",
+        "salary": "150 000 – 200 000 руб."
+    }
 ]

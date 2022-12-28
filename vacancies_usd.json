@@ -1,22 +1,14 @@
 [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+        "link": "https://spb.hh.ru/vacancy/73250741?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "CoinsGuru",
+        "salary": "1 500 – 2 500 USD"
+    },
+    {
+        "link": "https://spb.hh.ru/vacancy/73195194?from=vacancy_search_list&query=python",
+        "city": "Москва",
+        "company_name": "4CV Recruitment Services",
+        "salary": "6 000 – 9 000 USD"
+    }
 ]

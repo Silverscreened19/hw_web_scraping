@@ -17,9 +17,11 @@ def vacancies_list(soup):
     vac_list = soup.find(
         class_='vacancy-serp-content').find_all(class_='serp-item')  # список вакансий
     vacancies = []
+    vacancies_update = []
     for vac in tqdm(vac_list):
         parsed = vacancy_parsed(vac)
-        vacancies.append(parsed)
+        if parsed != None:
+            vacancies.append(parsed)
     return vacancies
 
 
@@ -55,7 +57,7 @@ def vacancy_parsed(vac):
 if __name__ == '__main__':
     list_of_vac = []
     with open('vacancies.json', 'w') as f:
-        for page in range(14, 20):
+        for page in range(0, 20):
             print(f'Page {page} parsing:')
             html = requests.get(
                 HOST, headers=get_headers(), params={'only_with_salary': True, 'page': page})

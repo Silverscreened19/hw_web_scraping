@@ -20,7 +20,8 @@ def vacancies_list(soup):
     vacancies = []
     for vac in tqdm(vac_list):
         parsed = vacancy_parsed(vac)
-        vacancies.append(parsed)
+        if parsed != None:
+            vacancies.append(parsed)
     return vacancies
 
 
@@ -53,7 +54,7 @@ def vacancy_parsed(vac):
 if __name__ == '__main__':
     list_of_vac = []
     with open('vacancies_usd.json', 'w') as f:
-        for page in range(0, 1):
+        for page in range(0, 20):
             print(f'Page {page} parsing:')
             html = requests.get(
                 HOST, headers=get_headers(), params={'only_with_salary': True, 'page': page})
